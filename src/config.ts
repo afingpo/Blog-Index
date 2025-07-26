@@ -1,39 +1,27 @@
 /** Website 分类配置 */
 const WEBSITE_SORTS: WebsiteSort[] = [
   {
-    title: "示例分类1",
+    title: "网站导航",
     sites: [
       {
-        title: "主标题",
-        url: "http://www.your-web-page.com/",
-        icon: "",
-        color: "#0171CD",
-      },
-      {
-        title: "主标题",
-        description: "网站描述",
-        url: "http://www.your-web-page.com/",
+        title: "我的博客",
+        description: "",
+        url: "https://blog.afingpo.top/",
         icon: "",
       },
       {
-        title: "主标题",
-        description: "网站描述",
-        url: "http://www.your-web-page.com/",
+        title: "网站监控",
+        description: "监控网站运行情况",
+        url: "https://stats.uptimerobot.com/bYFLj5Qfsb",
+        icon: "",
+      },
+      {
+        title: "我的文件",
+        description: "博客引用/备份/分享的文件",
+        url: "http://mingp0.ysepan.com",
         icon: "",
       },
     ],
-  },
-  {
-    title: "示例分类2",
-  },
-  {
-    title: "示例分类3",
-  },
-  {
-    title: "示例分类4",
-  },
-  {
-    title: "示例分类5",
   },
   {
     title: "友情链接",
@@ -55,7 +43,7 @@ const GLOBAL_CONFIG = {
   /**
    * 博客名称
    */
-  BLOG_NAME: "EsunR-Blog",
+  BLOG_NAME: "sunR-Blog",
   /**
    * 个人博客链接
    */
