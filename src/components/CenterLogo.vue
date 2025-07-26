@@ -2,7 +2,7 @@
 import GLOBAL_CONFIG from "@/config";
 import { randomNum } from "@/utils";
 import { onMounted, ref } from "vue";
-import LocalLogo from "@/assets/logo.svg";
+import LocalLogo from "@/assets/logo.png";
 import { useHead } from "@unhead/vue";
 
 defineOptions({
