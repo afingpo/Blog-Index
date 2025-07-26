@@ -43,11 +43,11 @@ const GLOBAL_CONFIG = {
   /**
    * 博客名称
    */
-  BLOG_NAME: "sunR-Blog",
+  BLOG_NAME: "Afingpo's GistLog",
   /**
    * 个人博客链接
    */
-  BLOG_URL: "https://blog.esunr.xyz",
+  BLOG_URL: "https://blog.afingpo.top",
   /**
    * 指定中心 LOGO 图片地址
    */
@@ -55,7 +55,7 @@ const GLOBAL_CONFIG = {
   /**
    * 个人 Github 链接
    */
-  GITHUB_URL: "https://github.com/EsunR",
+  GITHUB_URL: "https://github.com/afingpo",
   /**
    * 背景图片地址
    */
@@ -63,8 +63,8 @@ const GLOBAL_CONFIG = {
   /**
    * ICP 备案号，留空不显示
    */
-  ICP: "京ICP证000001号",
-  ICP_URL: "https://beian.miit.gov.cn/",
+  ICP: "",
+  ICP_URL: "",
   FOOTER_INFO: true,
   /**
    * 网站欢迎标语
@@ -72,13 +72,9 @@ const GLOBAL_CONFIG = {
   SLOGANS: [
     "欢迎拜访",
     "歡迎拜訪",
-    "Welcome, my friend!",
+    "Welcome, user!",
     "訪問へようこそ",
     "嗨，别来无恙",
-    "不忘初心，一生浪漫",
-    "最近还好吗？",
-    "流星，落花，萤火",
-    "马车越空，晃荡越响",
   ],
   /**
    * Website 分类配置
@@ -92,9 +88,9 @@ const GLOBAL_CONFIG = {
    * 网站 Title Keywords Description 的配置，用于 SEO
    */
   TKD: {
-    title: "My Blog Index",
+    title: "Afingpo's Index",
     keywords: "Blog, Index, Index Page",
-    description: "This is my personal blog index page.",
+    description: "This is Afingpo's personal blog index page.",
   },
 };
 
